@@ -1,6 +1,9 @@
 
 Proceso calcularEdad
 	Definir birthDay,currentYear,age Como Entero;
+	
+	//sdjksdfsdjfjsdf praxctica
+	
 	currentyear<-2024;
 	Definir actualWeigth , changePounds , weightPounds Como Real;
 	Definir names, lastNames , fullName Como Cadena;
